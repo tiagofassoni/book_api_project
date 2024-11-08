@@ -1,0 +1,86 @@
+[
+  {
+    "isbn": "9780547928227",
+    "title": "The Hobbit",
+    "description": "Bilbo Baggins is a hobbit who enjoys a comfortable, unambitious life, rarely traveling any farther than his pantry or cellar. But his contentment is disturbed when the wizard Gandalf and a company of dwarves arrive on his doorstep one day to whisk him away on an adventure.",
+    "publication_date": "1937-09-21",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "isbn": "9780316769488",
+    "title": "The Catcher in the Rye",
+    "description": "The story of Holden Caulfield, a teenage boy who has been expelled from prep school and is navigating his way through the challenges of adolescence, alienation, and identity in New York City.",
+    "publication_date": "1951-07-16",
+    "author": "J.D. Salinger"
+  },
+  {
+    "isbn": "9780743273565",
+    "title": "The Great Gatsby",
+    "description": "The story primarily concerns the young and mysterious millionaire Jay Gatsby and his quixotic passion and obsession with the beautiful former debutante Daisy Buchanan, set against the backdrop of the roaring twenties.",
+    "publication_date": "1925-04-10",
+    "author": "F. Scott Fitzgerald"
+  },
+  {
+    "isbn": "9780451524935",
+    "title": "1984",
+    "description": "Set in a dystopian future, the novel explores the consequences of totalitarianism, mass surveillance, and repressive regimentation of persons and behaviors within society through the eyes of everyman Winston Smith.",
+    "publication_date": "1949-06-08",
+    "author": "George Orwell"
+  },
+  {
+    "isbn": "9780061120084",
+    "title": "To Kill a Mockingbird",
+    "description": "Through the eyes of Scout Finch, a young girl growing up in Alabama during the Great Depression, we see her father Atticus Finch, a lawyer defending a black man accused of rape, and the racial injustices of the American South.",
+    "publication_date": "1960-07-11",
+    "author": "Harper Lee"
+  },
+  {
+    "isbn": "9780679783268",
+    "title": "Pride and Prejudice",
+    "description": "The story follows the main character Elizabeth Bennet as she deals with issues of manners, upbringing, morality, education, and marriage in the society of the landed gentry of early 19th-century England.",
+    "publication_date": "1813-01-28",
+    "author": "Jane Austen"
+  },
+  {
+    "isbn": "9780345538376",
+    "title": "Dune",
+    "description": "Set in the distant future amidst a feudal interstellar society, Dune tells the story of young Paul Atreides, whose family accepts control of the desert planet Arrakis, the only source of the most important and valuable substance in the cosmos.",
+    "publication_date": "1965-08-01",
+    "author": "Frank Herbert"
+  },
+  {
+    "isbn": "9780062315007",
+    "title": "The Alchemist",
+    "description": "Paulo Coelho's masterpiece tells the mystical story of Santiago, an Andalusian shepherd boy who yearns to travel in search of a worldly treasure. His quest will lead him to riches far different—and far more satisfying—than he ever imagined.",
+    "publication_date": "1988-01-01",
+    "author": "Paulo Coelho"
+  },
+  {
+    "isbn": "9780553418026",
+    "title": "The Martian",
+    "description": "Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. Now, he's sure he'll be the first person to die there. A story of survival, ingenuity, and humor in the face of seemingly impossible odds.",
+    "publication_date": "2011-09-27",
+    "author": "Andy Weir"
+  },
+  {
+    "isbn": "9780439023481",
+    "author": "Suzanne Collins",
+    "description": "In a dystopian future, Katniss Everdeen volunteers to take her sister's place in the Hunger Games, a televised event where teenagers fight to the death.",
+    "publication_date": "2008-09-14",
+    "title": "The Hunger Games"
+  },
+  {
+    "isbn": "9780140449242",
+    "author": "Fyodor Dostoyevsky",
+    "description": "A story about faith, doubt, and morality, following the lives of three brothers, each embodying different philosophical and ethical ideals.",
+    "publication_date": "1880-01-01",
+    "title": "The Brothers Karamazov"
+  },
+  {
+    "isbn": "9780316129084",
+    "author": "James S.A. Corey",
+    "description": "A down-on-his-luck freighter captain and a jaded detective uncover a vast conspiracy that threatens humanity's survival in a future where humanity has colonized the solar system.",
+    "publication_date": "2011-06-02",
+    "title": "Leviathan Wakes"
+  }
+]
