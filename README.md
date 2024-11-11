@@ -57,10 +57,18 @@ docker compose run web bash
 python manage.py migrate
 ```
 
-Seed data is available in the sample_books.json file. We also provide a simple script to populate the database with the data.
+Seed data with valid IBSNs is available in the sample_books.json file. We also provide a simple script to populate the database with the data.
 Please note the script must run outside the container.
 ```bash
-python populate_database_via_cli.py
+python populate_db_via_cli.py
+```
+
+If you want to run performance tests with lots of fake books, there is a script under Django management
+commands called `populate_db_with_fake_books`. By default it inserts two million books in batches of 10k.
+Note it will only work on empty databases.
+Run it with:
+```bash
+docker exec python manage.py populate_db_with_fake_books
 ```
 
 ### Tests, Linting, Coverage and Type Checking

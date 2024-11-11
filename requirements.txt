@@ -40,3 +40,5 @@ typing_extensions==4.12.2
 ruff==0.7.2
 ipython==8.29.0
 coverage==7.6.4
+Faker==30.8.2
+tqdm==4.67.0
