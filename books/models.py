@@ -31,6 +31,11 @@ class Book(models.Model):
     title = models.TextField()
 
     class Meta(TypedModelMeta):
+        indexes: ClassVar[list[models.Index]] = [
+            models.Index(fields=["created_at"]),
+        ]
+        verbose_name: ClassVar[str] = "Book"
+        verbose_name_plural: ClassVar[str] = "Books"
         ordering: ClassVar[list[str]] = ["created_at"]
 
     def __str__(self) -> str:
